@@ -18,6 +18,12 @@ $(document).ready(function() {
   .mouseup(function(){
   	$('.ryu-throwing').hide();
   	$('.ryu-ready').show();
+  })
+  .keydown(function(event){
+  	if (event.which == 88);
+  	{
+  		$('.ryu-cool').show();
+  	}
   });
 })
 
