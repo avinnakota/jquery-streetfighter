@@ -40,10 +40,10 @@ body
   background-image: url('../images/hadouken.gif');
   width: 156px; 
   height: 90px;
-  /*display: none;*/
+  display: none;
   position: relative;
-  top: 167px;
-  left: -212px;
+  top: -317px;
+  left: 220px;
   float: left;
 }
 * {
