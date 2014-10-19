@@ -42,14 +42,14 @@ body
   height: 90px;
   display: none;
   position: relative;
-  top: -317px;
-  left: 220px;
+  top: -247px;
+  left: 212px;
   float: left;
 }
 .ryu-cool
 {
   background-image: url('../images/ryu-cool.gif');
 }
-* {
+/** {
   outline: red 1px solid;
 }
